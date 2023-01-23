@@ -45,7 +45,7 @@
         width: 1920px;
         margin: 0;
         padding: 0;
-        background-color: rgba(0, 0, 0, 0.1);
+        /* background-color: rgba(0, 0, 0, 0.1); */
         font-family: 'Inter', sans-serif;
         display: flex;
         justify-content: center;
